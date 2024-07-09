@@ -1,5 +1,13 @@
-# Kami.
+# Kami. (Compatible Plan)
 
+> [!WARNING]  
+> 仅有兼容计划，不会有任何新功能，仅仅是为了保持 Kami 的运行。会出现代码质量低下等问题。
+> 
+> **更推荐使用 [Shiro](https://github.com/Innei/Shiro) 以获得更好的体验。**
+
+<sup>如果你发现了 Kami 与 Core 的不兼容问题，请提交 issue 并描述具体问题，团队成员会尽快修复。</sup>
+
+---
 
 > [!WARNING]  
 > Next.js 14 已发布，Kami 即日起停止维护，请使用 [Shiro](https://github.com/Innei/Shiro) 以获得更好的体验。
@@ -76,7 +84,7 @@ Live Demo:
 
 > 在此之前，请先完成部署 Mix Space
 
-参考[文档](https://mx-space.js.org/deploy/index.html#%E9%83%A8%E7%BD%B2-kami)
+参考[文档](https://mx-space.js.org/themes/kami)
 
 ## Clone
 
