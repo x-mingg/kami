@@ -113,7 +113,8 @@ export const defaultConfigs = {
       },
       icp: {
         enable: false,
-        label: '萌备 20201212 号',
+        label: '鄂ICP备2025144036号',
+        icon: '/assets/icp.svg',
         link: 'https://icp.gov.moe/',
       },
       navigation: [
