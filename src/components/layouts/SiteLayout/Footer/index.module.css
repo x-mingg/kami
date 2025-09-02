@@ -60,7 +60,7 @@
   padding: 0 1.25em;
   box-sizing: content-box;
 
-  @apply grid grid-cols-1 sm:grid-cols-3;
+  @apply grid grid-cols-1 sm:grid-cols-2;
 
   :global {
     .to-center {
@@ -71,16 +71,8 @@
       @apply flex flex-col items-center sm:items-start;
     }
 
-    .center {
-      @apply flex flex-col items-center;
-    }
-
     .right {
       @apply flex flex-col items-center sm:items-end;
-    }
-
-    .flex {
-      @apply flex items-center justify-center gap-2;
     }
   }
 }

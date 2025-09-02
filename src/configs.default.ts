@@ -112,7 +112,7 @@ export const defaultConfigs = {
         author: 'Steve Jobs',
       },
       icp: {
-        enable: false,
+        enable: true,
         label: '鄂ICP备2025144036号',
         icon: '/assets/icp.svg',
         link: 'https://icp.gov.moe/',

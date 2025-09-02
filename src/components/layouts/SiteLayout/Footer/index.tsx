@@ -83,13 +83,6 @@ export const FooterContent: FC = () => {
           </p>
         </ImpressionView>
       </div>
-      <div className="center">
-        <div className='flex'>
-          <p>
-            <a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2025144036号</a>
-          </p>
-        </div>
-      </div>
       <div className="right to-center">
         <p className="phone:mr-0 mr-12">
           {navigation.map((nav, i) => {
