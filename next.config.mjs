@@ -49,6 +49,7 @@ let configs = {
   eslint: {
     ignoreDuringBuilds: true,
   },
+ 
   async rewrites() {
     return {
       beforeFiles: [

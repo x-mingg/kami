@@ -72,29 +72,29 @@ export const defaultConfigs = {
           icon: 'faComment',
           path: '/recently',
         },
-        {
-          title: '余',
-          icon: 'faCircleNotch',
-          path: '/favorite/music',
-          subMenu: [
-            {
-              title: '听歌',
-              icon: 'faMusic',
-              type: 'Music',
-              path: '/favorite/music',
-            },
-            {
-              title: '项目',
-              icon: 'faFlask',
-              path: '/projects',
-            },
-          ],
-        },
-        {
-          title: '',
-          icon: 'faSubway',
-          path: 'https://travellings.link',
-        },
+      //   {
+      //     title: '余',
+      //     icon: 'faCircleNotch',
+      //     path: '/favorite/music',
+      //     subMenu: [
+      //       {
+      //         title: '听歌',
+      //         icon: 'faMusic',
+      //         type: 'Music',
+      //         path: '/favorite/music',
+      //       },
+      //       {
+      //         title: '项目',
+      //         icon: 'faFlask',
+      //         path: '/projects',
+      //       },
+      //     ],
+      //   },
+      //   {
+      //     title: '',
+      //     icon: 'faSubway',
+      //     path: 'https://travellings.link',
+      //   },
       ],
     },
     social: [],
@@ -108,8 +108,8 @@ export const defaultConfigs = {
       },
       homePage: '/',
       motto: {
-        content: 'Stay hungry. Stay foolish.',
-        author: 'Steve Jobs',
+        content: '保持对新鲜事物的求知',
+        author: '刘泽明',
       },
       icp: {
         enable: true,
